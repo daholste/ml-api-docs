@@ -68,6 +68,7 @@
     "fileMetadata": {},
     "template": [],
     "dest": "ml-dotnet-api",
-    "lruSize": 0
+    "lruSize": 0,
+    "exportRawModel": true
   }
 }
