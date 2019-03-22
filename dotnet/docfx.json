@@ -69,6 +69,7 @@
     "template": [],
     "dest": "ml-dotnet-api",
     "lruSize": 0,
-    "exportRawModel": true
+    "exportRawModel": true,
+    "markdownEngineName": "markdig"
   }
 }
